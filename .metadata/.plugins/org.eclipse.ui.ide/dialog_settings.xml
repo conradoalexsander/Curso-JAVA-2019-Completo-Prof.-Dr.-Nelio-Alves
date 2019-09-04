@@ -3,4 +3,8 @@
 	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
 		<item value="C:\Users\conra\Documents\Conrado\Conrado\Estudos de JAVA\Java Completo 2019\Programas Curso de  JAVA Completo 2019"/>
 	</list>
+	<section name="ResourceNavigator">
+		<item key="ResourceViewer.STORE_SORT_TYPE" value="1"/>
+		<item key="ResourceWorkingSetFilter.STORE_WORKING_SET" value="Aggregate for window 1565725208316"/>
+	</section>
 </section>
